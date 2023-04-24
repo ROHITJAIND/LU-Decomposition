@@ -28,7 +28,7 @@ print(U)
 ```
 
 ## Output:
-![OUTPUT](./image/output1.png)
+![OUTPUT](./images/output1.png)
 
 ## Result:
 Thus the program to find the L and U matrix using LU Decomposition of a matrix is written and verified using python programming.
@@ -65,7 +65,7 @@ print(x)
 ```
 
 ## Output:
-![OUTPUT](./image/output2.png)
+![OUTPUT](./images/output2.png)
 
 ## Result:
 Thus the program to solve a matrix using LU Decomposition is written and verified using python programming.
