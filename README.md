@@ -25,9 +25,8 @@ P,L,U=lu(A)
 print(L)
 print(U)
 ```
-
 ## Output:
-<img width=90% height=15% src="./images/output1.png">
+<img width=90% height=20% src="./images/output1.png">
 
 ## Result:
 Thus the python program to find the L and U matrix using LU Decomposition of a matrix is verified.
@@ -61,7 +60,6 @@ lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),B)
 print(x)
 ```
-
 ## Output:
 ![OUTPUT](./images/output2.png)
 
