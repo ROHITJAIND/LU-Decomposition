@@ -14,7 +14,6 @@ To write a program to find the L and U matrix using LU Decomposition of a matrix
 4. Assign P,L,U (Pivot matrix,L matrix and U matrix) to lu of A.
 5. Print L and U
 ## Program:
-(i) To find the L and U matrix
 ```
 #Program to find L and U matrix using LU decomposition.
 #Developed by: ROHIT JAIN D
@@ -31,7 +30,7 @@ print(U)
 ![OUTPUT](./images/output1.png)
 
 ## Result:
-Thus the program to find the L and U matrix using LU Decomposition of a matrix is written and verified using python programming.
+Thus the python program to find the L and U matrix using LU Decomposition of a matrix is verified.
 
 # Using LU Decomposition to solve a matrix
 
@@ -49,7 +48,6 @@ To write a program to solve a matrix using LU Decomposition.
 4. Assign lu and piv (lu and Pivot matrix) to lu_factor of A.
 5. Assign x to lu_solve of lu and piv with B and print x.
 ## Program:
-(i) To find the L and U matrix
 ```
 #Program to solve a matrix using LU decomposition.
 #Developed by: ROHIT JAIN D
@@ -68,4 +66,4 @@ print(x)
 ![OUTPUT](./images/output2.png)
 
 ## Result:
-Thus the program to solve a matrix using LU Decomposition is written and verified using python programming.
+Thus the python program to solve a matrix using LU Decomposition is verified.
