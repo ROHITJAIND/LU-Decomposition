@@ -27,7 +27,7 @@ print(U)
 ```
 
 ## Output:
-![OUTPUT](./images/output1.png)
+<img width=90% height=15% src="./images/output1.png">
 
 ## Result:
 Thus the python program to find the L and U matrix using LU Decomposition of a matrix is verified.
